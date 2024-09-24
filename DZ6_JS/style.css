@@ -1,0 +1,29 @@
+.todo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#create_button{
+    width: 100px;
+    height: 30px;
+    color: #070404;
+    background: #05f6af;
+    border:#05f6af;
+    border-radius: 5px;
+    letter-spacing: 2px;
+}
+#input{
+    width: 300px;
+    height: 30px;
+    background: #944efd;
+    border: #944efd;
+    border-radius: 5px;
+    padding-left: 10px;
+    
+}
+#todo_list{
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
